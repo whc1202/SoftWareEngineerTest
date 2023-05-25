@@ -5,3 +5,6 @@
 - 2.PinPosition接口中，添加refenceId = "Message"+referenceId 方法（后端）
 - 3.前端将查询列表的查询条件删除（前端）
 - 4.换Pin接口（前端）
+
+
+- **sortField要用**
